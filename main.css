@@ -6,8 +6,6 @@
 }
 
 .dropdown .dropdown-menu {
-	background: transparent;
-	background-color: transparent;
 	border-color: transparent;
 	box-shadow: none;
 }
@@ -18,7 +16,7 @@
 }
 
 .dropdown .dropdown-menu li a{
-	color: white;
+	color: #777;
 	font-size: 110%;
 }
 
@@ -69,7 +67,7 @@
 #fourthdiv h1{
 	color: white;
 	float: right;
-	height: 850px;
+	height: 750px;
 	padding: 40px 5% 0 0;
 	font-size: 450%;
 	clear: both;
