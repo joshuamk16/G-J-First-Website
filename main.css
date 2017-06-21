@@ -2,6 +2,10 @@
 	font-family: 'Lato', sans-serif;
 }
 
+#navbar-dropdown {
+	font-color:black;
+}
+
 #maindiv {
 	background-image: url(joey-kyber-132520.jpg);
 	height:850px;
