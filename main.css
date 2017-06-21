@@ -1,0 +1,40 @@
+body {
+	background-image: url(joey-kyber-132520.jpg);
+	background-size: 100%;
+	background-position: fixed;
+	background-repeat: no-repeat;
+}
+
+#header h1 {
+	color: white;
+	padding: 5%;
+	font-size: 300%;
+	display: inline;
+	top: 50px;
+	position: relative;
+}
+
+#navbar ul {
+	list-style-type: none;
+	margin: 15px;
+	float:right;
+}
+
+#navbar ul li {
+	display: inline-block;
+	padding: 0px 15px;
+	color: white;
+	font-size: 100%;
+}
+
+#navbar ul li a{
+	color: white;
+	font-size: 105%;
+}
+
+p {
+	color: white;
+	padding-left: 5%;
+	padding-top: 50px;
+	font-size: 125%;
+}
