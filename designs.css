@@ -1,0 +1,76 @@
+.text {
+	font-family: 'Lato', sans-serif;
+}
+
+.navbar-default {
+	position: fixed;
+}
+
+.dropdown .dropdown-menu {
+	border-color: transparent;
+	box-shadow: none;
+}
+
+.dropdown .dropdown-menu .aria-expanded li{
+	float: right;
+	clear: both;
+}
+
+.dropdown .dropdown-menu li a{
+	color: #777;
+	font-size: 100%;
+}
+
+#header h1 {
+	padding-left: 5%;
+	font-size: 450%;
+	top: 75px;
+	display: inline;
+	position: fixed;
+}
+
+#header a:hover {
+	text-decoration: none;
+}
+
+
+.maindiv #header h1 a {
+	color: white;
+	top:-20px;
+	position:relative;
+}
+
+
+.maindiv {
+	height: 250px;
+	background-image: url(reflect.jpg);
+	background-size: cover;
+}
+
+#seconddiv {
+	height:500px;
+	width:90%;
+	background-color:red;
+	margin:auto;
+}
+
+
+
+
+
+
+
+
+.parallax {
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+
+
+
+
