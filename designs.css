@@ -34,15 +34,15 @@
 }
 
 
-.maindiv #header h1 a {
+#maindiv #header h1 a {
 	color: white;
 	top:-20px;
 	position:relative;
 }
 
 
-.maindiv {
-	height: 250px;
+#maindiv {
+	height: 1050px;
 	background-image: url(reflect.jpg);
 	background-size: cover;
 }
@@ -52,12 +52,9 @@
 	width:90%;
 	background-color:red;
 	margin:auto;
+	position:relative;
+	top:300px;
 }
-
-
-
-
-
 
 
 
